@@ -1,0 +1,142 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Roboto', sans-serif;
+}
+
+#nome{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    font-size: 30px;
+    
+}
+#frase{
+    position: absolute;
+    top: 60px;
+    left: 75px;
+    font-size: 13px;
+}
+.flex-container{
+    position: absolute;
+    top:10px;
+    left: 1000px;
+   
+}
+ol{
+    list-style:none;
+    padding:0px;
+    position: absolute;
+    top: 15px;
+    left: 930px;
+}
+li{
+    width:100px;
+    height:30px;
+    font-size:15px;
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+a{
+    text-decoration:none;
+    color:rgb(10, 6, 6);
+}
+
+.texto{
+    position: absolute;
+    top: 290px;
+    left: 50px;
+    font-size: 29px;
+    opacity : 0.5;
+    
+}
+.developer{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    font-size: 40px;
+}
+
+button{
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    background: rgba(153, 0, 255, 0.452)
+}
+.imagem-perfil{
+    position: absolute;
+    top: 140px;
+    left: 900px;
+}
+.projetos{
+   position: absolute;
+   top: 605px;
+   left: 605px;
+   font-size: 50px;
+}
+.calculadora{
+    position: absolute;
+    top: 700px;
+    left: 200px;
+    box-shadow: 10px 5px 5px black;
+}
+.tela-login{
+    position: absolute;
+    top: 700px;
+    left: 800px;
+    box-shadow: 10px 5px 5px black;
+}
+.conversor{
+    position: absolute;
+    top: 1100px;
+    left: 200px;
+    box-shadow: 10px 5px 5px black;
+}
+.contabilize{
+    position: absolute;
+    top: 1100px;
+    left: 800px;
+    box-shadow: 10px 5px 5px black;
+}
+#repositorio{
+    position: absolute;
+    top: 1500px;
+    left: 580px;
+    text-decoration: none;
+    
+}
+.minha-historia{
+    position: absolute;
+    top: 1570px;
+    left: 480px;
+    font-size: 20px;
+}
+.texto-historia{
+    position: absolute;
+    top: 1600px;
+    left: 0px;
+    margin: 40px;
+    text-align: center;
+    font-size: 25px;
+    opacity : 0.5;
+}
+.contato{
+    position:absolute;
+    top: 2100px;
+    left: 400px;
+}
+.instagram{
+    position: absolute;
+    top: 2100px;
+    left: 900px;
+}
+.direitos{
+    position: absolute;
+    top:2150px;
+    left: 550px;
+}
